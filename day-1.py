@@ -19,7 +19,43 @@ print("hello_world!")#NOTE:I KNOW THAT YOU GOT A DOUBT LIKE WHY THE WORD IS QUOT
 #NOW RUN IT BY USING THIS COMMAND "python day-1.py" day-1.py is file name so please replace that with your file name
 #chack if your are in the currect folder or not in your terminal 
 
-/*
-DATA TYPES 
+# NOW LET'S GET TO BUSINESS
+# DATATYPES 
 
-*/
+# DATATYPES ARE USED TO CATEGORIZE VALUES THAT ARE STORED IN A VARIABLE SO THAT PYTHON KNOWS WHICH TYPE OF DATA
+# WHICH HELPS PROGRAM EXECUTION IN PYTHON
+
+# THERE ARE A TOTAL OF 8 TYPES IN PYTHON:
+# 1.NUMERIC
+# 2.TEXT
+# 3.BOOLEAN
+# 4.SEQUENCE
+# 5.MAPPING
+# 6.SET 
+# 7.BINARY
+# 8.NONE
+
+# NUMERIC DATA TYPE 
+# NUMERIC TYPE IS A BASIC DATATYPE THAT IS USED IN PYTHON 
+# IT INTEGERS, FLOATIONG(DECIMAL) VALUES ,AND COMPLEX NUMBER 
+# THESE ARE REPRESENTED UDING THE FOLLOWING KEYWORDS
+# INT --> INTEGERS
+# FLOAT --> DECIMALS
+# COMPLEX --> COMPLEX NUMBERS
+
+# NOW LETS SEE SOME EXAMPLE CODE FOR THEM
+Integer = int(1)
+Float = float(1.1)
+Complex = complex(1+2j)
+
+print(type(Integer))
+print(type(Float))
+print(type(Complex))
+
+
+# you should get the following as an output
+# 30-days-of-python> python day-1.py
+# hello_world!
+# <class 'int'>
+# <class 'float'>
+# <class 'complex'>
