@@ -28,7 +28,7 @@ integer = int(1)
 Float = float(1.1)
 input = str(input("enter a word:"))
 nums = [1,2,3,4,6,5]
-year = {"year"}:2026
+year = {"year":2026}
 
 print(string)
 print(len(string))
