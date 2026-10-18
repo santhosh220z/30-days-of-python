@@ -38,6 +38,23 @@ print(input)
 print(nums)
 print(year)
 print(max(nums))
-print(mim(nums))
+print(min(nums))
 print(sum(nums))
 print(sorted(nums))
+
+# VARIABLES
+
+# # variables store data in a computer memory. Mnemonic variables are recommended to use in many programming languages. A mnemonic 
+# # variable is a variable name that can be easily remembered and associated. A variable refers to a memory address in which data is stored.
+
+# # Python Variable Name Rules
+
+# # A variable name must start with a letter or the underscore character
+# # A variable name cannot start with a number
+# # A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+# # Variable names are case-sensitive (firstname, Firstname, FirstName and FIRSTNAME) are different variables)
+
+VARAIBLE_NAME = "DATA_POINT OR VALUE"
+
+# EXERCISE -1
+
