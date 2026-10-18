@@ -23,12 +23,12 @@
 # open() --> this funtions is used to open files in python
 # help() --> this function is used to open help menu
 
-string = str(hello_world)
+string = "hello_world"
 integer = int(1)
 Float = float(1.1)
 input = str(input("enter a word:"))
-nums = list(1,2,3,4,6,5)
-year = dict("year":2026)
+nums = [1,2,3,4,6,5]
+year = {"year"}:2026
 
 print(string)
 print(len(string))
@@ -36,7 +36,7 @@ print(integer)
 print(Float)
 print(input)
 print(nums)
-print(dict)
+print(year)
 print(max(nums))
 print(mim(nums))
 print(sum(nums))
