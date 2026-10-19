@@ -55,6 +55,3 @@ print(sorted(nums))
 # # Variable names are case-sensitive (firstname, Firstname, FirstName and FIRSTNAME) are different variables)
 
 VARAIBLE_NAME = "DATA_POINT OR VALUE"
-
-# EXERCISE -1
-
